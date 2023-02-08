@@ -1,4 +1,4 @@
-# Medical Image Captioning on Chest X-Rays
+# Medical Image Captioning on X-Rays
 
 ## Description
 
